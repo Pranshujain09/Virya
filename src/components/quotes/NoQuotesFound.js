@@ -6,7 +6,7 @@ const NoQuotesFound = () => {
     <div className={classes.noquotes}>
       <p>No quotes found!</p>
       <Link className="btn" to="/Virya/new-quote">
-        Add a Quote
+        Add a Thought
       </Link>
     </div>
   );

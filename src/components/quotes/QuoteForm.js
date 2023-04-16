@@ -59,7 +59,7 @@ const QuoteForm = (props) => {
           </div>
           <div className={classes.actions}>
             <button onClick={finishEnteringHandler} className="btn">
-              Add Quote
+              Add Thought
             </button>
           </div>
         </form>
